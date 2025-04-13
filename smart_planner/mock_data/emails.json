@@ -1,0 +1,37 @@
+[
+  {
+    "id": "email_001",
+    "sender": "boss@example.com",
+    "subject": "URGENT: Finalize Q2 Report",
+    "body": "Hi team, please finalize the Q2 financial report ASAP. The deadline is tomorrow EOD. This is critical.",
+    "received_date": "2025-04-13T15:30:00+07:00"
+  },
+  {
+    "id": "email_002",
+    "sender": "client_support@example.com",
+    "subject": "Action Required: Follow up on Ticket #12345",
+    "body": "Please review the latest update on support ticket #12345 and provide feedback to the client by Wednesday.",
+    "received_date": "2025-04-13T11:05:00+07:00"
+  },
+  {
+    "id": "email_003",
+    "sender": "marketing@example.com",
+    "subject": "FYI: New Marketing Campaign Launch",
+    "body": "Just letting everyone know that the new campaign website goes live next Monday. No action needed from your side.",
+    "received_date": "2025-04-13T09:00:00+07:00"
+  },
+  {
+    "id": "email_004",
+    "sender": "colleague@example.com",
+    "subject": "Quick question about Project Alpha",
+    "body": "Hey, can we chat briefly about the Project Alpha debrief scheduled for today? Just want to align on key points.",
+    "received_date": "2025-04-14T08:15:00+07:00"
+  },
+   {
+    "id": "email_005",
+    "sender": "hr@example.com",
+    "subject": "Important: Submit timesheets",
+    "body": "Reminder to submit your weekly timesheets by Friday 5 PM.",
+    "received_date": "2025-04-14T09:30:00+07:00"
+  }
+]

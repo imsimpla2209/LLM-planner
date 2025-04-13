@@ -1,0 +1,26 @@
+[
+  {
+    "start_time": "2025-04-14T10:00:00+07:00",
+    "end_time": "2025-04-14T11:00:00+07:00",
+    "summary": "Team Sync Meeting",
+    "location": "Meeting Room 3B"
+  },
+  {
+    "start_time": "2025-04-14T13:00:00+07:00",
+    "end_time": "2025-04-14T14:00:00+07:00",
+    "summary": "Lunch with Client",
+    "location": "Downtown Cafe"
+  },
+  {
+    "start_time": "2025-04-14T16:30:00+07:00",
+    "end_time": "2025-04-14T17:00:00+07:00",
+    "summary": "Project Alpha Debrief",
+    "location": "Online"
+  },
+  {
+    "start_time": "2025-04-15T09:00:00+07:00",
+    "end_time": "2025-04-15T10:30:00+07:00",
+    "summary": "Planning Session Q3",
+    "location": "Conference Room 1"
+  }
+]

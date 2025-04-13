@@ -1,0 +1,9 @@
+google-adk>=0.1.0
+google-auth-oauthlib
+google-api-python-client
+requests
+python-dotenv
+pydantic
+pytest
+cachetools
+tenacity
